@@ -1,0 +1,8 @@
+0. Joseph Van Kessel
+1. Approximately 30
+2. difficult
+3. Mostly alone
+4. 50%
+5. I spent a lot of time just trying to work out the back propagation and
+ultimately could not. I could have copied the code from the lectures and
+turned that in for full points in 1-best but I figured my way was less naive.
